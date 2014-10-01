@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="36px" height="36px"
+	 viewBox="0 0 98 98" enable-background="new 0 0 98 98" xml:space="preserve">
+<g id="Serial_Number_Bank">
+	<linearGradient id="barcode-icon_1_" gradientUnits="userSpaceOnUse" x1="49.4996" y1="28.1742" x2="49.4996" y2="71.4807">
+		<stop  offset="3.667090e-03" style="stop-color:#1A6FA7"/>
+		<stop  offset="1" style="stop-color:#123755"/>
+	</linearGradient>
+	<path id="barcode-icon" fill="url(#barcode-icon_1_)" d="M9.1,71.5V28.2h6.7v43.3L9.1,71.5L9.1,71.5z M22.3,71.5V28.2h8.1v43.3
+		L22.3,71.5L22.3,71.5z M36.7,71.5V28.2h4v43.3L36.7,71.5z M61.6,71.5V28.2h4v43.3L61.6,71.5z M47.1,71.5l0-43.3h8.1v43.3L47.1,71.5
+		z M72,71.5V28.2h6.7v43.3L72,71.5L72,71.5z M84.9,71.5V28.2l4.9,0v43.3L84.9,71.5L84.9,71.5z"/>
+</g>
+</svg>
